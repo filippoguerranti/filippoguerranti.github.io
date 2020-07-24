@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence"
 collection: publications
-permalink: /notes/ai
+permalink: /publications/ai
 excerpt: 'This notes are refered to the course of Artificial Intelligence teached by Prof. Edmondo Trentin'
 date: 2020-07-24
 venue: 'Computer and Automation Engineering - University of Siena'
