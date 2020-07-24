@@ -2,6 +2,9 @@
 title: "Machine Learning"
 collection: publications
 permalink: /publications/ml
+excerpt: 'Machine Learning Notes'
+date: 2020-07-24
+venue: 'CAE - Unisi'
 ---
 * Name of the course: Machine Learning
 
