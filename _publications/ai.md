@@ -13,5 +13,5 @@ Author of the notes: Filippo Guerranti
 Web Page of the course: [link](https://www3.diism.unisi.it/~trentin/IA1920.html)
 
 
-[Download the notes here](http://filippoguerranti.github.io/files/ai.pdf)
+[Download the notes here](https://drive.google.com/file/d/1P-s6KYZBHvL4DQXU7zSPH2dZbJXyS6yy/view?usp=sharing)
 
