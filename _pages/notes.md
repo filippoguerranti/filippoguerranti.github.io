@@ -10,3 +10,5 @@ author_profile: true
 {% for post in site.notes reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+du coglioni
