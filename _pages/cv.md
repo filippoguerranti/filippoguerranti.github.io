@@ -26,24 +26,13 @@ Experiences
 Skills
 ======
 * Programming Languages and Softwares: 
-  * C
-  * C++
-  * Python
-  * Matlab
-  * PHP
-  * Gurobi
-  * HTML
-  * CSS
-  * Git
-  * LaTex
+  C, C++, Python, Matlab, PHP, Gurobi, HTML, CSS, Git, LaTex
 * Operating Systems: 
-  * Windows (all versions)
+  Windows (all versions)
 * Applications: 
-  * Microsoft Office
-  * OpenOffice
+  Microsoft Office, OpenOffice
 * Miscellaneous:
-  * Arduino
-  * PC and smartphone components
+  Arduino, PC and smartphone components
 
 Languages 
 ======
