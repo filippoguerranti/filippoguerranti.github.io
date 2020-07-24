@@ -12,7 +12,6 @@ L’Intelligenza Artificiale è la disciplina che studia come rendere una macchi
 
 Il Machine Learning, tradotto generalmente in italiano come “apprendimento automatico”, è una branca del più ampio concetto di Intelligenza Artificiale e rappresenta la capacità di un computer di apprendere in modo “relativamente” autonomo.
 
-
 Facciamo un parallelismo per capire meglio. Gli esseri umani sono dotati di una intelligenza che li rende capaci di muoversi, di parlare e di imparare (oltre a tante altre cose). Esattamente come un essere umano, anche un computer può essere dotato di un’intelligenza, ma in questo caso “artificiale”: questo tipo di intelligenza permette alla macchina di muoversi (robot), di parlare (assistenti vocali come Siri o Alexa) e di imparare.
 
 È nell’apprendimento che il Machine Learning entra in gioco ed è per questo motivo che rappresenta solamente un sottoinsieme del ben più ampio concetto di Intelligenza Artificiale, il quale comprende anche tutte le altre applicazioni di una comune intelligenza.
@@ -26,7 +25,6 @@ Ogni algoritmo che un programmatore si presta ad implementare in modo manuale, r
 
 Nel Machine Learning l’implementazione della logica dell’algoritmo avviene in modo automatico. Il ruolo del programmatore sta nel scegliere la giusta “architettura” dell’algoritmo ma è il computer, tramite la comparazione tra i dati in ingresso e i dati di uscita desiderati (chiamati “target” o “label”), che apprende in modo “autonomo” i parametri interni all’algoritmo.
 
-
 L’apprendimento autonomo dei parametri interni dell’algoritmo può essere pensato come alla calibrazione che un fotografo effettua alla propria macchina fotografica per ottenere la foto migliore in termini di luminosità, colori e nitidezza. Allo stesso modo un computer calibra determinati parametri del proprio algoritmo interno (la cui struttura è stata scelta da un programmatore) con il fine di ottenere il miglior risultato possibile in termini di una certa funzione, chiamata “funzione di costo”.
 
 È chiaro, adesso, quale sia la differenza tra ML e IA e, in particolare, cosa vuol dire “apprendimento automatico”.
@@ -38,7 +36,7 @@ In questo articolo parleremo dei due principali metodi di apprendimento:
 In entrambi i casi l’ingrediente fondamentali sono i dati ed è proprio grazie alla grande quantità di dati e alla sviluppata capacità di calcolo di cui disponiamo in questi anni che l’Intelligenza Artificiale e il Machine Learning hanno avuto grande successo.
 
 
-***Apprendimento Supervisionato.
+**Apprendimento Supervisionato.**
 
 La maggior parte dei metodi pratici di ML utilizzano l’apprendimento supervisionato. In questo contesto si prevede che ognuno degli elementi che definiscono l'insieme dei dati in input, quelli di cui il computer dispone, sia dotato di un’etichetta (in gergo tecnico “label”) che definisce l’output desiderato da quel particolare dato in ingresso. Possiamo considerare il label come una sorta di “insegnante” (o “supervisore”, da qui il termine “supervisionato”) per l’algoritmo e, di solito, il processo di associazione dell’etichetta ad ogni singolo dato di input viene svolto da un essere umano.
 
@@ -57,7 +55,7 @@ Questa è la fase di Training in cui il computer viene allenato a riconoscere le
 L’apprendimento, quindi, si dice supervisionato quando i dati su cui la macchina si allena sono dotati di un’etichetta che ne stabilisce la classe di appartenenza (nei problemi di classificazione) o il generico output desiderato (nei problemi di regressione, per esempio) e la macchina, completato l’allenamento, sarà in grado di creare una relazione generale tra dati in ingresso e dati in uscita.
 
 
-***Apprendimento Non Supervisionato.
+**Apprendimento Non Supervisionato.**
 
 Mentre nel contesto supervisionato ad ogni dato era associato il corrispondente output, nel caso dell’apprendimento non supervisionato il label non è più presente. Ogni dato viene fornito direttamente alla macchina e a questa verrà richiesto di trovare una o più relazioni tra i dati stessi. In questo contesto l’insegnante sparisce e lascia in mano al computer l’intero processo di apprendimento: quello che ci aspettiamo è che venga “scoperta” una certa struttura apparentemente nascosta tra i dati.
 
