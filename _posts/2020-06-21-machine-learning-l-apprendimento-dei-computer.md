@@ -1,5 +1,5 @@
 ---
-title: 'Machine Learning: l\'apprendimento dei computer'
+title: 'Machine Learning: come apprendono i computer'
 date: 2020-06-21
 permalink: /posts/2020/06/machine-learning-l-apprendimento-dei-computer/
 
