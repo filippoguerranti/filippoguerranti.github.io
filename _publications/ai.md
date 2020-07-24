@@ -2,6 +2,9 @@
 title: "Artificial Intelligence"
 collection: publications
 permalink: /publications/ai
+excerpt: 'Artificial Intelligence Notes'
+date: 2020-07-24
+venue: 'CAE - Unisi'
 ---
 * Name of the course: Artificial Intelligence
 
