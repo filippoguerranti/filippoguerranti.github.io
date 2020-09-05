@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Filippo Guerranti is a Master Student in Computer and Automation Engineering, with particular focus on AI and ML, at University of Siena"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
