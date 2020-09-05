@@ -21,6 +21,7 @@ Internship
 
 Experiences
 ======
+* Author at Passaporto Futuro, 2020 - present
 * Semi Intensive General English Course, English Language Company, Sydney, Australia, 2015
   
 Skills
@@ -28,7 +29,7 @@ Skills
 * Programming Languages and Softwares: 
   C, C++, Python, Matlab, PHP, Gurobi, HTML, CSS, Git, LaTex
 * Operating Systems: 
-  Windows (all versions)
+  Windows (all versions), Linux (Ubuntu 20.04)
 * Applications: 
   Microsoft Office, OpenOffice
 * Miscellaneous:
