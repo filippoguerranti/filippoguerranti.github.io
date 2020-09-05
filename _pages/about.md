@@ -20,4 +20,4 @@ I am interested in the applications that these disciplines will have in the pres
 I love doing sports and reading a bit of everything: classics, science books, personal development and psychology.
 In the free time I also write for Passaporto Futuro, which is a web-blog that aims at provide high quality news in order to contrast the fake-news and to build a better future in the field of information. You can read my articles (in italian) [here](https://filippoguerranti.github.io/articles/).
 
-During the years I collected some notes about the courses in Computer Engineering (BSc) at the University of Siena, as well as the ones for Computer and Automation Engineering (MSc). The notes are "work-in-progress" and you can find some of them [here](https://filippoguerranti.github.io/publications/)
+During the years I collected some notes about the courses in Computer Engineering (BSc) at the University of Siena, as well as the ones for Computer and Automation Engineering (MSc). The notes are "work-in-progress" and you can find some of them [here](https://filippoguerranti.github.io/publications/).
