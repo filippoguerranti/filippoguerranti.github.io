@@ -1,11 +1,8 @@
 ---
-title: 'Recommender Systems'
+title: 'Suggestions for you'
 date: 2020-09-06
 permalink: /posts/2020/09/recommender-systems/
-tags:
-  - cool posts
-  - category1
-  - category2
+
 ---
 
 Il successo ottenuto negli ultimi anni da aziende come Netflix, Amazon e Youtube (solo per citarne alcuni) può essere in parte ricondotto all’utilizzo estenuante dei sistemi di raccomandazione (SR nel seguito): algoritmi in grado di suggerire ad ogni utente un prodotto che sia il più rilevante possibile per l’utente stesso. 
