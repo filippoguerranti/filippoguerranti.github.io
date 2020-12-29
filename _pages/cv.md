@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+Downloads
+======
+* Short CV: [download](https://github.com/filippoguerranti/filippoguerranti.github.io/raw/master/files/filippoguerranti-CV.pdf)
+* Long CV: *building*
+
 Education
 ======
 * M.Sc. in Computer and Automation Engineering (Information systems), University of Siena, 2019 - present
