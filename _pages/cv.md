@@ -9,31 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Downloads
-======
-* Short CV: [download](https://github.com/filippoguerranti/filippoguerranti.github.io/raw/master/files/filippoguerranti-CV.pdf)
-* Long CV: *building*
+> Short CV: [:page_facing_up:](https://github.com/filippoguerranti/filippoguerranti.github.io/raw/master/files/filippoguerranti-CV.pdf)  
+> Long CV: *building*
 
 Education
 ======
-* M.Sc. in Computer and Automation Engineering (Information systems), University of Siena, 2019 - present
-* B.Sc. in Computer and Information Engineering (Systems and Automation), University of Siena, 2015 - 2019
-* High School Certificate of Education ("Maturità Scientifica"), LSSA T. Sarrocchi (Siena, Italy), 2010 - 2015
+* M.Sc. in Computer and Automation Engineering - University of Siena  
+  <span style="color:gray; font-size:0.2em;">December 2019 - present</span>  
+  <span style="color:gray; font-size:0.2em;">Curriculum: Information Systems</span>
+* B.Sc. in Computer and Information Engineering (Systems and Automation) - University of Siena  
+  *October 2015 - December 2019*
 
 Internship
 ======
-* Master Student at SAILab (Siena Artificial Intelligence Lab), University of Siena, 2020 - present
+* Master Student at SAILab (Siena Artificial Intelligence Lab) - University of Siena  
+  *July 2020 - present*
 
 Experiences
 ======
-* Author at Passaporto Futuro, 2020 - present
-* Semi Intensive General English Course, English Language Company, Sydney, Australia, 2015
+* Author at Passaporto Futuro  
+  *May 2020 - present*
+* Semi Intensive General English Course, English Language Company - Sydney, Australia  
+  *August 2015 - September 2015*
   
 Skills
 ======
-* Programming Languages and Softwares: 
+* Programming Languages and Softwares:  
   C++, Python, Matlab, C, PHP, Gurobi, HTML, CSS, Git, LaTex
-* Operating Systems: 
+* Operating Systems:  
   Linux (Ubuntu 20.04), Windows (all versions)
 
 Languages 
