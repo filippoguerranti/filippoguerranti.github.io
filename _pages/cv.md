@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-> Short CV: [:page_facing_up:](https://github.com/filippoguerranti/filippoguerranti.github.io/raw/master/files/filippoguerranti-CV.pdf)  
+> Short CV: [download](https://github.com/filippoguerranti/filippoguerranti.github.io/raw/master/files/filippoguerranti-CV.pdf)  
 > Long CV: *building*
 
 # Education
